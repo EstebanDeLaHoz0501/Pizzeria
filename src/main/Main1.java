@@ -1,4 +1,11 @@
 import java.util.ArrayList;
+import core.Pizzeria;
+import core.Cliente;
+import core.Item;
+import core.Pedido;
+import core.PedidoOnLine;
+import core.PedidoTelefono;
+
 
 public class Main1 {
     
